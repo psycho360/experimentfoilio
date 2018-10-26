@@ -77,13 +77,13 @@ p {
 .card-color-0 {
   z-index: 4;
 
-  background-color: yellow;
+  background-color: #b2b2b2 ;
 }
 
 .card-color-0:hover {
   z-index: 4;
 
-  background-color: #b2b2b2;
+  background-color: yellow;
 }
 
 
